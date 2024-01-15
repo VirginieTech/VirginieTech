@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Virginie 
 - 👀 I’m an aspiring Junior Full Stack Developer
-- 🌱 Working with React & Django
+- 🌱 Working with JS , learning React
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me Linkedin
 
